@@ -1,0 +1,12 @@
+{
+    "name": "wj/timezones",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Jiang Wang",
+            "email": "wangjiang988@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
