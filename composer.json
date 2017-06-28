@@ -1,12 +1,10 @@
 {
-    "name": "wj/timezones",
+    "name": "wangjiang988/timezones",
     "description": "Demo-package to show time",
-    "authors": [
-        {
-            "name": "Jiang Wang",
-            "email": "wangjiang988@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Jiang Wang",
+        "email": "wangjiang988@gmail.com"
+    }],
     "minimum-stability": "dev",
     "require": {}
 }
