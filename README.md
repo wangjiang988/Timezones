@@ -3,7 +3,7 @@ Simple Demo For laravel package development learning
 # Installation
 To get started with Timezones, simply run:
 
-      composer require laravel/tinker
+      composer require wangjiang988/timezones
           
 Next, register the Wj\Timezones\TimezonesServiceProvider in your config/app.php file:
 
